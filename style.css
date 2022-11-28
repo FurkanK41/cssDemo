@@ -1,0 +1,35 @@
+body {
+    background-color: darkgray;
+}
+
+#first {
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.Category{
+    font-size: 70px;
+    
+}
+
+#cars {
+    
+    color: red;
+
+
+
+}
+
+#motors {
+color: green;
+}
+
+#ships {
+color:bisque;
+}
+.Motors{
+border-image: fill;
+
+}
